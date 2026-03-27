@@ -17,7 +17,6 @@ Analista de Projetos Junior & Desenvolvedor na **HubRocket**, focado na ponte en
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -34,7 +33,6 @@ Analista de Projetos Junior & Desenvolvedor na **HubRocket**, focado na ponte en
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
 </div>
@@ -60,8 +58,6 @@ Analista de Projetos Junior & Desenvolvedor na **HubRocket**, focado na ponte en
   <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Gitlab-E24329?logo=gitlab&logoColor=white&style=for-the-badge" />
@@ -74,17 +70,14 @@ Analista de Projetos Junior & Desenvolvedor na **HubRocket**, focado na ponte en
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Nova-00ADD8?logo=nova&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Vim-19612E?logo=vim&logoColor=white&style=for-the-badge" />
 </div>
 
 <br>
 
 ## Contatos
 <div align="center">
-  <a href="mailto:<SEU_EMAIL_AQUI>"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="<LINK_DO_SEU_LINKEDIN_AQUI>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="<LINK_DO_SEU_DISCORD_AQUI>" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:<otaciliooliveiraneto@outlook.com>"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="<https://www.linkedin.com/in/otacilio-de-oliveira-neto-a8349b205/>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
