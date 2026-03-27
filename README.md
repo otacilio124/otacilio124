@@ -1,7 +1,7 @@
 # Olá, sou Otacílio Neto 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Analista%20de%20Projetos%20Junior-blue?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Analista%20de%20Projetos-blue?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/-Co--fundador%20%40HubRocket-green?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/-Aviation%20Enthusiast-D22128?style=flat-square&logo=american-airlines&logoColor=white" />
 </div>
@@ -9,7 +9,7 @@
 <br>
 
 ### 👨‍💻 Sobre mim
-Sou **Analista de Desenvolvimento de Projetos** e desenvolvedor Full Stack. Atualmente, foco em unir a visão estratégica de negócios com a execução técnica de alta performance. 
+Sou **Analista de Desenvolvimento de Projetos** na Polato Sementes e desenvolvedor Full Stack. Meu foco é unir a visão estratégica de negócios com a execução técnica de alta performance. 
 
 - 🚀 Co-fundador da **HubRocket**, transformando ideias em soluções digitais.
 - 📊 Especialista em transformar dados em decisões através do **Power BI**.
@@ -20,6 +20,7 @@ Sou **Analista de Desenvolvimento de Projetos** e desenvolvedor Full Stack. Atua
 
 ### 💻 Front End
 <div align="left">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -58,7 +59,7 @@ Sou **Analista de Desenvolvimento de Projetos** e desenvolvedor Full Stack. Atua
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otacilio124&show_icons=true&theme=nord&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otacilio124&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otacilio124&layout=compact&theme=nord&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
