@@ -12,9 +12,7 @@
 Sou **Analista de Desenvolvimento de Projetos** e desenvolvedor Full Stack. Atualmente, foco em unir a visão estratégica de negócios com a execução técnica de alta performance. 
 
 - 🚀 Co-fundador da **HubRocket**, transformando ideias em soluções digitais.
-- ✈️ Desenvolvedor do **AeroHub**, um ecossistema focado em facilitar a vida de pilotos.
 - 📊 Especialista em transformar dados em decisões através do **Power BI**.
-- 🐈 Pai da Pandora e da Kaguya.
 
 ---
 
