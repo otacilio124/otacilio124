@@ -12,6 +12,7 @@
 Sou **Analista de Desenvolvimento de Projetos** na Polato Sementes e desenvolvedor Full Stack. Meu foco é unir a visão estratégica de negócios com a execução técnica de alta performance. 
 
 - 🚀 Co-fundador da **HubRocket**, transformando ideias em soluções digitais.
+- ✈️ Idealizador do **AeroHub**, focado em tecnologia para aviação.
 - 📊 Especialista em transformar dados em decisões através do **Power BI**.
 
 ---
